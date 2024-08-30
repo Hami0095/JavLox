@@ -62,7 +62,6 @@ static boolean hadError = false;
 		    System.err.println(
 		        "[line " + line + "] Error" + where + ": " + message);
 		    hadError = true;
-	}
-	
+	}	
 
 }
